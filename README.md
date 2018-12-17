@@ -1,5 +1,6 @@
 
-
+##Fontend 
+https://github.com/MrInternauta/Angular-Grafica-Realtime/
 # Socket-Server
 
 
